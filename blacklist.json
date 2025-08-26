@@ -1,17 +1,1 @@
-[
-    {
-        "salt": "cd43125f40eb2460fb4aa08740e225a3",
-        "hash": "287923ce747421ab9919d1cf12556110790d7566f2f00f1a9e661164ec1b6654",
-        "banReason": "Brunner BI license test"
-    },
-    {
-        "salt": "dd523a6ec635603ef1b1adeaa2351eb4",
-        "hash": "7ae05fd03837e5e47a003440603d26da9d6d19eb2262450b48f0539e5c8e6159",
-        "banReason": "Cancelled subscription"
-    },
-    {
-        "salt": "b84430be80ecf20ef4774f8b43f56e38",
-        "hash": "2d4adec4e269d6c2000e896526c4928b119df2992155fdb5a3fb1f18544a318c",
-        "banReason": "Cancelled subscription"
-    }
-]
+[{"salt":"99090c1cba213939c7ea0807a5845377","hash":"5a1dd926e1a25b4b32e02d132f368b17432f567f3a3fe8aa96587db5737fa497","banReason":"Brunner BI license test"},{"salt":"ab16beffa4835df06f764e66f32cd74f","hash":"bace96c3bfeaea1fb6a9ae26d3b34694181a41ade2cef98666843a26151f10c8","banReason":"Cancelled subscription"},{"salt":"f0b91c6afe1547332d0a2bd61f1e8154","hash":"20b88864b407027588c306c64a8fdc0a0e9936c283eec59925012b2202246157","banReason":"Cancelled subscription"}]
